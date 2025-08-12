@@ -14,7 +14,7 @@ const RefundPolicy = () => {
    <div className="paragraph-section">
         <section>
           <p>
-            Thank you for choosing Tech Zenon’s software products and services.
+            Thank you for choosing Tech Zenon’s software products and services.We are proud to offer a wide range of solutions including Web Development, SEO Optimization, Digital Marketing, E-commerce Solutions, Mobile App Development, UI/UX Design, and Cloud Services to help grow your business and achieve your digital goals. Our dedicated team ensures quality, innovation, and customer satisfaction in every project.
             We are committed to delivering the best user experience and customer
             satisfaction. However, we understand there may be circumstances
             where you need to cancel a purchase or request a refund. This Refund
@@ -84,7 +84,7 @@ const RefundPolicy = () => {
             </li>
             <li>
               <strong>c) Refund Decision:</strong> If eligible, we will process
-              your refund within [X] business days via the original payment
+              your refund within 15 business days via the original payment
               method. Your bank or payment provider may take additional time to
               reflect the amount in your account.
             </li>

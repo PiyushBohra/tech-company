@@ -88,7 +88,7 @@ const TermsCondition = () => {
         <p>
           These Terms shall be governed by and construed in accordance with the laws of India. Any 
           disputes arising under these Terms shall be subject to the exclusive jurisdiction of the 
-          courts located in Rajasthan, India.
+          courts located in Noida, India.
         </p>
 
         <h2>Changes to Terms</h2>

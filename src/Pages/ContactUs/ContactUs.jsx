@@ -37,7 +37,7 @@ const ContactUs = () => {
               <FiMapPin size={40} color="#1063f0" />
               <h3>Reach Us</h3>
             </div>
-            <p>B-149 2nd Floor, Sector 63, Noida, UP, India 201301</p>
+            <p>B-149, 2nd Floor, Sector 63, Noida, UP, India 201301</p>
           </div>
         </div>
       </div>
