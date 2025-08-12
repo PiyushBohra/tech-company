@@ -15,7 +15,7 @@ const testimonialsData = [
     {
     text: "I would like to say a very big thank you to you guys of Tech Zenon. Thank you so much once again for the great work you did on my website. To be sincere you under promised us and you over delivered. Your design was just mind-blowing and this video is to recommend you to any company or individual looking for a website designer. To get in touch with you and your team for your work is just incredible. Thank you once again from JBD Freight.",
     name: "Kojo",
-    title: "CEO, JBD Freight Ireland",
+    title: "CEO, JBD Freight, Ireland",
     img: "/images/client-testi3.jpg",
     videoId: "AASyu7MyFJw",
     backimg: '/images/testimonials-back.png'
